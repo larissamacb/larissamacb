@@ -1,5 +1,5 @@
 <h3>Estudante buscando ser desenvolvedora full-stack!</h3>
-<p>Inicialmente estou focando em Desenvolvimento Web, começando pelo foco em Front-End e depois indo ao Back-End. Entretanto, também tenho interesse em fazer aplicações mobile e desenvolvimento de jogos.</p>
+<p>Inicialmente estou focando em Desenvolvimento Web, começando por Front-End e depois indo ao Back-End. Entretanto, também tenho interesse em fazer aplicações mobile e desenvolvimento de jogos.</p>
 <div>
   <a href="https://github.com/larissamacb">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=larissamacb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
