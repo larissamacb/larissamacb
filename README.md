@@ -1,4 +1,4 @@
-<h3>Olá! Sou uma estudante com foco em ser Cientista de Dados</h3>
+<h3>Olá! Sou uma estudante com foco em ser Cientista de Dados.</h3>
 <p>Comecei estudando desenvolvimento web e gosto disso, mas atualmente tenho me focado no âmbito de dados e também tenho forte interesse em desenvolvimento mobile para poder fazer integrações entre essas tecnologias.</p>
 <p>No momento, venho estudado bastante estatística, matemática, machine learning, processamento de linguagem natural, python e suas bibliotecas que vêm a ser úteis no meu aprendizado.</p>
 <div>
