@@ -34,14 +34,6 @@ Sou uma estudante de TI em transição para me tornar **Cientista de Dados** com
 
 ---
 
-### 📈 Estatísticas
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=larissamacb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-
----
-
 ### 📫 Contatos
 
 <div>
