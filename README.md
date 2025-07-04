@@ -3,7 +3,7 @@
 
 ---
 
-### 🚀 Sobre mim
+### 📍 Sobre mim
 
 Sou uma estudante de TI em transição para me tornar **Cientista de Dados** com forte interesse em **Inteligência Artificial** e **Desenvolvimento Mobile**.
 
