@@ -8,7 +8,7 @@
 
 ### 📍 Sobre Mim
 
-Atualmente, foco meus estudos na **Cibersegurança**, além de sua intersecção com **Ciência de Dados**, buscando entender como a inteligência artificial pode fortalecer a proteção de redes.
+Atualmente, foco meus estudos na **Cibersegurança**, além de sua intersecção com **Ciência de Dados** e **IA**, buscando entender como a inteligência artificial pode fortalecer a proteção de redes.
 
 ---
 
